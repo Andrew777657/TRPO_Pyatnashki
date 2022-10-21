@@ -1,0 +1,15 @@
+C:\Users\noint\source\repos\Pyatnaski\Pyatnaski\bin\Debug\Pyatnaski.exe.config
+C:\Users\noint\source\repos\Pyatnaski\Pyatnaski\bin\Debug\Pyatnaski.exe
+C:\Users\noint\source\repos\Pyatnaski\Pyatnaski\bin\Debug\Pyatnaski.pdb
+C:\Users\noint\source\repos\Pyatnaski\Pyatnaski\obj\Debug\Pyatnaski.csproj.AssemblyReference.cache
+C:\Users\noint\source\repos\Pyatnaski\Pyatnaski\obj\Debug\Pyatnaski.csproj.SuggestedBindingRedirects.cache
+C:\Users\noint\source\repos\Pyatnaski\Pyatnaski\obj\Debug\Pyatnaski.csproj.CoreCompileInputs.cache
+C:\Users\noint\source\repos\Pyatnaski\Pyatnaski\obj\Debug\Pyatnaski.exe
+C:\Users\noint\source\repos\Pyatnaski\Pyatnaski\obj\Debug\Pyatnaski.pdb
+C:\Users\User\Downloads\Pyatnaski\Pyatnaski\bin\Debug\Pyatnaski.exe.config
+C:\Users\User\Downloads\Pyatnaski\Pyatnaski\bin\Debug\Pyatnaski.exe
+C:\Users\User\Downloads\Pyatnaski\Pyatnaski\bin\Debug\Pyatnaski.pdb
+C:\Users\User\Downloads\Pyatnaski\Pyatnaski\obj\Debug\Pyatnaski.csprojAssemblyReference.cache
+C:\Users\User\Downloads\Pyatnaski\Pyatnaski\obj\Debug\Pyatnaski.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Pyatnaski\Pyatnaski\obj\Debug\Pyatnaski.exe
+C:\Users\User\Downloads\Pyatnaski\Pyatnaski\obj\Debug\Pyatnaski.pdb
